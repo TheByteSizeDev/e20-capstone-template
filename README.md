@@ -1,6 +1,6 @@
 # Getting Started with This Template
 
-**PLEASE READ ALL STEPS BEFORE BEGINNING WORK**. This tempalte is designed to get you up and running with your captone as quickly as possible. It comes with a couple gimmes, mainly:
+**PLEASE READ ALL STEPS BEFORE BEGINING WORK**. This template is designed to get you up and running with your captone as quickly as possible. It comes with a couple gimmes, mainly:
 
 * Everything you get when you run `create-react-app`
 * All of your dependencies ready to be installed ie: `react-router-dom`
