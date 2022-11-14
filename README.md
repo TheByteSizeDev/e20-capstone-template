@@ -51,7 +51,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Step 3: Run `npm i`
 
-Run `nmp i` in your app's root directory and you're all set!
+Run `nmp i` in your app's root directory and **you're all set**!
 
 
 ## Available Scripts
