@@ -16,7 +16,7 @@ export const Login = () => {
         if (foundUsers.length === 1) {
           const user = foundUsers[0];
           localStorage.setItem(
-            "project_user",
+            "capstone_user",
             JSON.stringify({
               id: user.id,
             })
